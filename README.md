@@ -1,1 +1,1 @@
-Projeto desenvolivdo atraves das aulas da rocketseat
+Projeto desenvolvido atraves das aulas da rocketseat
